@@ -1,2 +1,2 @@
 # wekalaManager
- Store Owner 16/8/2021 9:50
+ Store Owner Done Deployment in github 16/8/2021 9:50
